@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  
+  --color-studio-50: #f8f8f8;
+  --color-studio-100: #f1f1f1;
+  --color-studio-200: #e4e4e4;
+  --color-studio-300: #d1d1d1;
+  --color-studio-400: #a3a3a3;
+  --color-studio-500: #737373;
+  --color-studio-600: #525252;
+  --color-studio-700: #404040;
+  --color-studio-800: #262626;
+  --color-studio-900: #171717;
+  --color-studio-950: #0a0a0a;
+}
+
+@layer base {
+  body {
+    @apply bg-white text-studio-900 font-sans antialiased;
+  }
+}
+
+.studio-card {
+  @apply border border-studio-200 bg-white transition-all duration-300 hover:border-studio-900 hover:shadow-sm;
+}
+
+.category-tag {
+  @apply px-2 py-0.5 text-[10px] uppercase tracking-wider border border-studio-200 text-studio-500;
+}
+
