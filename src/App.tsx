@@ -149,6 +149,69 @@ const STUDIOS: Studio[] = [
     category: ["品牌设计", "标志设计"],
     url: "https://nofans.com.cn",
     description: "专注于品牌视觉沟通，以其独特的视觉美学和策略思考服务于多元客户。"
+  },
+  {
+    name: "297 Design",
+    location: "Beijing",
+    category: ["综合设计", "品牌设计"],
+    url: "http://www.297design.com/?mode=color",
+    description: "专注于视觉传达与品牌建构，以独特的色彩运用和实验性设计见长。"
+  },
+  {
+    name: "7654321 Design",
+    location: "Beijing",
+    category: ["品牌设计", "标志设计"],
+    url: "https://7654321.design",
+    description: "北京领先的设计驱动型工作室，致力于品牌身份与视觉系统的深度开发。"
+  },
+  {
+    name: "Stockholm Design Lab",
+    location: "Stockholm",
+    category: ["品牌设计", "综合设计"],
+    url: "https://www.stockholmdesignlab.se",
+    description: "来自瑞典的顶尖设计机构，以极致的简约与理性的商业设计闻名。"
+  },
+  {
+    name: "1983 Asia",
+    location: "Macau / Shenzhen",
+    category: ["品牌设计", "综合设计"],
+    url: "http://www.1983asia.com/",
+    description: "专注于亚洲文化设计的跨国工作室，作品充满跨文化的视野与艺术深度。"
+  },
+  {
+    name: "L3 Branding",
+    location: "Beijing",
+    category: ["品牌设计", "标志设计"],
+    url: "https://www.l3branding.com/works/",
+    description: "国内顶尖的品牌设计公司，擅长大型品牌战略与视觉身份的系统化打造。"
+  },
+  {
+    name: "Atmosphere Office",
+    location: "Beijing",
+    category: ["综合设计"],
+    url: "https://www.atmosphereoffice.cn/zh",
+    description: "北京新锐跨学科设计工作室，探索设计、文化与空间的艺术连接。"
+  },
+  {
+    name: "2x4",
+    location: "New York",
+    category: ["综合设计", "品牌设计"],
+    url: "https://2x4.org/",
+    description: "闻名全球的设计咨询公司，由视觉艺术家和策略师组成，深耕品牌与媒体设计。"
+  },
+  {
+    name: "Studio NAEO",
+    location: "Shanghai",
+    category: ["综合设计", "包装设计"],
+    url: "https://www.studionaeo.com/works",
+    description: "专注于高品质包装与产品视觉的设计机构，追求平衡美学与工艺的结合。"
+  },
+  {
+    name: "Reesaw",
+    location: "Shanghai",
+    category: ["品牌设计", "标志设计"],
+    url: "http://www.reesaw.com/",
+    description: "知名品牌顾问公司，为客户提供从策略到视觉的全体系品牌解决方案。"
   }
 ];
 
